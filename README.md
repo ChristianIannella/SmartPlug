@@ -1,6 +1,8 @@
 # Arduino-SmartPlug
 Arduino based smart plug 
 
+![Arduino SmartPlug by Iannella Christian](https://github.com/ChristianIannella/SmartPlug/blob/main/pcb.JPG)
+
 Super simple Alexa compatible smart plug, based on Arduino IoT Cloud.
 
 Follow the instruction on [here](https://github.com/ChristianIannella/Arduino-SmartPlug/blob/main/DIYODE-041%20SmartPlug.pdf/)
