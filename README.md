@@ -13,4 +13,4 @@ Follow the instruction [here](https://github.com/ChristianIannella/Arduino-Smart
 Please, feel free to contribute.
 
 # Author
-(c) 2022 Iannella Christian
+Iannella Christian
